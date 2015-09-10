@@ -46,7 +46,7 @@ namespace Digital_Secretary
             this.speechAllowed = true;
             if (this.speechAllowed)
             {
-                speechObject.speakText("Welcome, Please Login To Continue");
+                speechObject.speakText("Welcome, Please Login To Continue To Your Profile");
             }
         }
 
